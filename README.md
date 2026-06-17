@@ -77,18 +77,6 @@ This ML-powered app predicts which customers are **at risk of churning** based o
 
 ---
 
-## 📁 Project Structure
-
-```
-customer-churn-prediction/
-│
-├── app.py                  # Streamlit app
-├── model.pkl               # Trained ML model
-├── requirements.txt        # Dependencies
-├── churn_data.csv          # Dataset
-└── README.md               # Project documentation
-```
-
 ---
 
 ## 🎮 How To Run Locally
